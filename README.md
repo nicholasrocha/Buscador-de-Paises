@@ -13,7 +13,7 @@ Abaixo podemos ver um endpoint que fornece as informações do pais Brasil:
 ## Funcionalidades
 - [ x ] Filtro de paises por continente.
 - [ x ] Busca de paises por escrito.
-- [ x ] Filtro de usuários pela quantidade.
+- [ x ] Responsividade da tela.
 - [ x ] Mostra informações do pais como:
     Capital
     Lingua
@@ -22,7 +22,6 @@ Abaixo podemos ver um endpoint que fornece as informações do pais Brasil:
     População
     Área
     Ver mapa no google maps
-- [ x ] Responsividade da tela.
 
 ## Contatos
 Email: rochanicholas10@gmail.com
